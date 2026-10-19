@@ -2,8 +2,8 @@
   "title": "Туроператоры Чили для русскоязычных агентств: 6 предложений Атакамы и Торрес-дель-Пайне, 2026",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISH_APPROVED_PENDING_LIVE",
-  "releaseDate": null,
+  "status": "RU_CANONICAL_PUBLISHED_SITE_DRAFT_PENDING_TRILINGUAL_RELEASE",
+  "releaseDate": "2026-10-19",
   "cutoffDate": "2026-10-19",
   "surface": "REPOSITORY_RESEARCH",
   "sourceClassification": "OFFICIAL_COMPANY_PAGES_INDEXED_SNAPSHOT_NOT_VERIFIED_BOOKINGS",
@@ -22,5 +22,7 @@
   "methodologyVersion": "0.5",
   "repositoryUrl": "https://github.com/IndexResearch-ru/chile-private-atacama-patagonia-2026",
   "observationMatrix": "OBSERVATION_MATRIX.csv",
-  "sourceCount": 18
+  "sourceCount": 18,
+  "step6CanonicalCommit": "fbe7d9cc463f672d3b03971b29d78891de7c2d5f",
+  "siteDraftPR": "https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/pull/29"
 }
