@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Цитируйте выпуск IndexResearch с названием, датой среза и версией."
+title: "Туроператоры Чили для русскоязычных агентств: 6 предложений Атакамы и Торрес-дель-Пайне, 2026"
+version: "1.0.0"
+type: dataset
+authors:
+  - name: IndexResearch
+url: "https://github.com/IndexResearch-ru/chile-private-atacama-patagonia-2026"
+repository-code: "https://github.com/IndexResearch-ru/chile-private-atacama-patagonia-2026"
+keywords:
+  - Чили
+  - Атакама
+  - Торрес-дель-Пайне
+  - турагентства
+  - сравнительное исследование

@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 520" role="img"> <rect x="0" y="0" width="1060" height="520" fill="#ffffff"/>
+<title>30 наблюдений по 6 организаторам и 5 характеристикам</title>
+<text x="30" y="42" fill="#0E3455" font-size="24" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">Публичная детализация предложений: 6 × 5 характеристик</text>
+<text x="30" y="70" fill="#5b6474" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">Категории доказательности, без баллов и ранжирования</text>
+<text x="377.5" y="114" fill="#0E3455" font-size="17" font-weight="700" text-anchor="middle" font-family="Arial, sans-serif">K1</text>
+<text x="512.5" y="114" fill="#0E3455" font-size="17" font-weight="700" text-anchor="middle" font-family="Arial, sans-serif">K2</text>
+<text x="647.5" y="114" fill="#0E3455" font-size="17" font-weight="700" text-anchor="middle" font-family="Arial, sans-serif">K3</text>
+<text x="782.5" y="114" fill="#0E3455" font-size="17" font-weight="700" text-anchor="middle" font-family="Arial, sans-serif">K4</text>
+<text x="917.5" y="114" fill="#0E3455" font-size="17" font-weight="700" text-anchor="middle" font-family="Arial, sans-serif">K5</text>
+<text x="30" y="172" fill="#111827" font-size="16" font-weight="600" text-anchor="start" font-family="Arial, sans-serif">Ada Tours</text>
+<rect x="312" y="143" width="128" height="44" rx="8" fill="#216a66"/>
+<text x="377.5" y="170" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="447" y="143" width="128" height="44" rx="8" fill="#216a66"/>
+<text x="512.5" y="170" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="582" y="143" width="128" height="44" rx="8" fill="#c78d36"/>
+<text x="647.5" y="170" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="717" y="143" width="128" height="44" rx="8" fill="#216a66"/>
+<text x="782.5" y="170" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="852" y="143" width="128" height="44" rx="8" fill="#6b88a6"/>
+<text x="917.5" y="170" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<text x="30" y="223" fill="#111827" font-size="16" font-weight="600" text-anchor="start" font-family="Arial, sans-serif">Планета Travel</text>
+<rect x="312" y="194" width="128" height="44" rx="8" fill="#c78d36"/>
+<text x="377.5" y="221" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="447" y="194" width="128" height="44" rx="8" fill="#216a66"/>
+<text x="512.5" y="221" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="582" y="194" width="128" height="44" rx="8" fill="#216a66"/>
+<text x="647.5" y="221" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="717" y="194" width="128" height="44" rx="8" fill="#c78d36"/>
+<text x="782.5" y="221" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="852" y="194" width="128" height="44" rx="8" fill="#9ca3af"/>
+<text x="917.5" y="221" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<text x="30" y="274" fill="#111827" font-size="16" font-weight="600" text-anchor="start" font-family="Arial, sans-serif">Карибский клуб</text>
+<rect x="312" y="245" width="128" height="44" rx="8" fill="#c78d36"/>
+<text x="377.5" y="272" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="447" y="245" width="128" height="44" rx="8" fill="#216a66"/>
+<text x="512.5" y="272" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="582" y="245" width="128" height="44" rx="8" fill="#216a66"/>
+<text x="647.5" y="272" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="717" y="245" width="128" height="44" rx="8" fill="#c78d36"/>
+<text x="782.5" y="272" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="852" y="245" width="128" height="44" rx="8" fill="#9ca3af"/>
+<text x="917.5" y="272" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<text x="30" y="325" fill="#111827" font-size="16" font-weight="600" text-anchor="start" font-family="Arial, sans-serif">Россита</text>
+<rect x="312" y="296" width="128" height="44" rx="8" fill="#c78d36"/>
+<text x="377.5" y="323" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="447" y="296" width="128" height="44" rx="8" fill="#216a66"/>
+<text x="512.5" y="323" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="582" y="296" width="128" height="44" rx="8" fill="#c78d36"/>
+<text x="647.5" y="323" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="717" y="296" width="128" height="44" rx="8" fill="#216a66"/>
+<text x="782.5" y="323" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="852" y="296" width="128" height="44" rx="8" fill="#9ca3af"/>
+<text x="917.5" y="323" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<text x="30" y="376" fill="#111827" font-size="16" font-weight="600" text-anchor="start" font-family="Arial, sans-serif">ChileToTravel</text>
+<rect x="312" y="347" width="128" height="44" rx="8" fill="#216a66"/>
+<text x="377.5" y="374" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="447" y="347" width="128" height="44" rx="8" fill="#216a66"/>
+<text x="512.5" y="374" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="582" y="347" width="128" height="44" rx="8" fill="#c78d36"/>
+<text x="647.5" y="374" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="717" y="347" width="128" height="44" rx="8" fill="#c78d36"/>
+<text x="782.5" y="374" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="852" y="347" width="128" height="44" rx="8" fill="#6b88a6"/>
+<text x="917.5" y="374" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<text x="30" y="427" fill="#111827" font-size="16" font-weight="600" text-anchor="start" font-family="Arial, sans-serif">Corona Travel</text>
+<rect x="312" y="398" width="128" height="44" rx="8" fill="#c78d36"/>
+<text x="377.5" y="425" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="447" y="398" width="128" height="44" rx="8" fill="#216a66"/>
+<text x="512.5" y="425" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="582" y="398" width="128" height="44" rx="8" fill="#216a66"/>
+<text x="647.5" y="425" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="717" y="398" width="128" height="44" rx="8" fill="#216a66"/>
+<text x="782.5" y="425" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="852" y="398" width="128" height="44" rx="8" fill="#6b88a6"/>
+<text x="917.5" y="425" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle" font-family="Arial, sans-serif">●</text>
+<rect x="30" y="470" width="14" height="14" rx="3" fill="#216a66"/>
+<text x="51" y="482" fill="#5b6474" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">Конкретное</text>
+<rect x="287" y="470" width="14" height="14" rx="3" fill="#c78d36"/>
+<text x="308" y="482" fill="#5b6474" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">Частичное</text>
+<rect x="544" y="470" width="14" height="14" rx="3" fill="#6b88a6"/>
+<text x="565" y="482" fill="#5b6474" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">Общее заявление</text>
+<rect x="801" y="470" width="14" height="14" rx="3" fill="#9ca3af"/>
+<text x="822" y="482" fill="#5b6474" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">Нет подтверждения</text>
+</svg>
