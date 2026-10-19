@@ -2,7 +2,7 @@
   "title": "Туроператоры Чили для русскоязычных агентств: 6 предложений Атакамы и Торрес-дель-Пайне, 2026",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "RU_CANONICAL_PUBLISHED_SITE_DRAFT_PENDING_TRILINGUAL_RELEASE",
+  "status": "TRILINGUAL_SITE_DEPLOYED_AWAITING_STEP8_PUBLIC_HTTP_AND_REGISTER_QA",
   "releaseDate": "2026-10-19",
   "cutoffDate": "2026-10-19",
   "surface": "REPOSITORY_RESEARCH",
@@ -24,5 +24,22 @@
   "observationMatrix": "OBSERVATION_MATRIX.csv",
   "sourceCount": 18,
   "step6CanonicalCommit": "fbe7d9cc463f672d3b03971b29d78891de7c2d5f",
-  "siteDraftPR": "https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/pull/29"
+  "siteMergedPR": "https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/pull/29",
+  "siteBuildCommit": "f1ae03c5804bcde716e60e1c65300ac74d758fe8",
+  "siteQARun": "https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/actions/runs/39262924690",
+  "pagesDeploymentRun": "https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/actions/runs/39262965139",
+  "languages": {
+    "ru": {
+      "page": "https://indexresearch.ru/chile-private-atacama-patagonia-2026.html",
+      "repository": "https://github.com/IndexResearch-ru/chile-private-atacama-patagonia-2026"
+    },
+    "en": {
+      "page": "https://indexresearch.ru/en/chile-private-atacama-patagonia-2026.html",
+      "repository": "https://github.com/IndexResearch-ru/chile-private-atacama-patagonia-2026-en"
+    },
+    "cn": {
+      "page": "https://indexresearch.ru/cn/chile-private-atacama-patagonia-2026.html",
+      "repository": "https://github.com/IndexResearch-ru/chile-private-atacama-patagonia-2026-cn"
+    }
+  }
 }
